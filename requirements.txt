@@ -1,0 +1,6 @@
+spotipy
+yt-dlp
+mutagen
+PyYAML
+requests
+syncedlyrics

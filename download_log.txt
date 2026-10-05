@@ -1,0 +1,434 @@
+
+[1/90] Lacuna Coil Spellbound
+
+[1/57] ODESZA;Jenni Potts White Lies
+  → SUCCESS: ODESZA & Jenni Potts - White Lies.mp3
+
+[2/57] ODESZA Always This Late
+  → SUCCESS: ODESZA - Always This Late.mp3
+
+[3/57] TUL8TE Qesm El Shakawy
+  → SUCCESS: TUL8TE - Qesm El Shakawy.mp3
+
+[4/57] Flume Helix
+  → SUCCESS: Flume - Helix.mp3
+
+[5/57] Justice Helix
+  → SUCCESS: Justice - Helix (Gesaffelstein Vision Remix).mp3
+
+[6/57] Florida Georgia Line H.O.L.Y.
+  → SUCCESS: Florida Georgia Line - H.O.L.Y. (Acoustic).mp3
+
+[7/57] Coldplay Everglow - Live from Spotify London
+  → SUCCESS: Coldplay Everglow - Live from Spotify London.mp3
+
+[8/57] Sunidhi Chauhan;Shail Hada;Sanjay Leela Bhansali;A.M. Turaz Udi
+  → SUCCESS: Sunidhi Chauhan, Shail Hada & A M Turaz - Udi.mp3
+
+[9/57] DJ Khaled;Akon;B.o.B My Life
+  → SUCCESS: DJ Khaled - My Life (feat. Akon, Bob).mp3
+
+[10/57] Amit Trivedi;Arijit Singh Wo Ladki
+  → SUCCESS: Unknown Artist - Amit Trivedi;Arijit Singh Wo Ladki.mp3
+
+[11/57] Coldplay Another's Arms
+  → SUCCESS: Coldplay - Another's Arms.mp3
+
+[12/57] Post Malone Circles
+  → SUCCESS: Post Malone - Circles.mp3
+
+[13/57] Ariana Grande Touch ItCrave You - An-2 Remix
+  → FAILED download
+
+[14/57] Emi Meyer;DJ Okawari Midnight Train feat. Emi Meyer
+  → SUCCESS: DJ OKAWARI - Midnight Train (feat. Emi Meyer).mp3
+
+[15/57] Ellie Goulding Let It Die
+  → FAILED download
+
+[16/57] Ellie Goulding Your Song - Bonus Track
+  → SUCCESS: Calvin Harris - I Need Your Love [Bonus Track] (feat. Ellie Goulding).mp3
+
+[17/57] Ellie Goulding How Long Will I Love You
+  → SUCCESS: Ellie Goulding - How Long Will I Love You (Bonus Track).mp3
+
+[18/57] Ellie Goulding My Blood
+  → SUCCESS: Ellie Goulding - My Blood.mp3
+
+[19/57] The Lonely Island;Akon I Just Had Sex
+  → SUCCESS: Pop Magicians - I Just Had Sex (The Lonely Island & Akon 808 Tribute Re-Mix).mp3
+
+[20/57] Akon Keep Up
+  → SUCCESS: Akon - Keep You Much Longer.mp3
+
+[21/57] Fleetwood Mac The Chain - 2004 Remaster
+  → SUCCESS: Fleetwood Mac - The Chain.mp3
+
+[22/57] Alter Bridge Open Your Eyes
+  → SUCCESS: Alter Bridge - Open Your Eyes.mp3
+
+[23/57] Greta Van Fleet Meeting The Master
+  → SUCCESS: Backing Business - Meeting the Master (Originally Performed by Greta Van Fleet) [Karaoke Version].mp3
+
+[24/57] Red Hot Chili Peppers Dark Necessities
+  → SUCCESS: Red Hot Chili Peppers - Dark Necessities.mp3
+
+[25/57] Pritom Hasan;Emon Chowdhury Shorgohara (Outro)
+  → SUCCESS: Pritom Hasan - Shorgohara (Outro) (feat. Emon Chowdhury).mp3
+
+[26/57] Pritom Hasan Shesh Upohar
+  → SUCCESS: Pritom Hasan - Shesh Upohar.mp3
+
+[27/57] Clean Bandit;Julia Michaels I Miss You (feat. Julia Michaels) - Acoustic
+  → SUCCESS: Clean Bandit - I Miss You [DRAM Remix] (feat. Julia Michaels).mp3
+
+[28/57] Clean Bandit;Julia Michaels I Miss You (feat. Julia Michaels)
+
+[29/57] Avicii Wake Me Up
+  → SUCCESS: Avicii - Wake Me Up.mp3
+
+[30/57] Kygo;Zoe Wees Love Me Now (feat. Zoe Wees)
+  → SUCCESS: Kygo - Love Me Now (feat. Zoe Wees).mp3
+
+[31/57] Kygo;Selena Gomez It Ain't Me (with Selena Gomez)
+  → SUCCESS: Kygo & Selena Gomez - It Ain't Me (Tiësto's A (feat. RHRS Remix).mp3
+
+[32/57] Kygo;Ellie Goulding First Time
+  → FAILED download
+
+[33/57] Linkin Park;Pusha T;Stormzy Good Goodbye (feat. Pusha T and Stormzy)
+  → SUCCESS: LINKIN PARK - Good Goodbye (feat. Pusha T & Stormzy).mp3
+
+[34/57] Dave Porter Cleaning House
+  → SUCCESS: Dave Porter - Cleaning House.mp3
+
+[35/57] Ana Tijoux 1977
+  → SUCCESS: Ana Tijoux - 1977.mp3
+
+[36/57] Mithoon;Arijit Singh;Neeti Mohan;Karan Malhotra Fitoor
+  → SUCCESS: Mithoon, Arijit Singh & Neeti Mohan - Fitoor.mp3
+
+[37/57] Skrillex;Starrah;Four Tet Butterflies
+  → SUCCESS: Skrillex, Starrah & Four Tet - Butterflies.mp3
+
+[38/57] Krewella Team
+  → SUCCESS: Krewella - Alibi.mp3
+
+[39/57] Krewella Be There
+
+[1/57] ODESZA;Jenni Potts White Lies
+  → VERIFIED SUCCESS: ODESZA & Jenni Potts - White Lies.mp3
+
+[2/57] ODESZA Always This Late
+  → STOPPED: Verified plain lyrics and a corresponding synced .lrc were not found; later tracks not started
+
+[1/57] ODESZA;Jenni Potts White Lies
+  → VERIFIED SUCCESS: ODESZA & Jenni Potts - White Lies.mp3
+
+[2/57] ODESZA Always This Late
+  → STOPPED: Verified plain lyrics and a corresponding synced .lrc were not found; later tracks not started
+
+[1/55] TUL8TE Qesm El Shakawy
+  → STOPPED: Verified plain lyrics and a corresponding synced .lrc were not found; later tracks not started
+
+[1/55] TUL8TE Qesm El Shakawy
+  → FAILED: Verified plain lyrics and a corresponding synced .lrc were not found; continuing with next track
+
+[2/55] Flume Helix
+  → FAILED: Verified plain lyrics and a corresponding synced .lrc were not found; continuing with next track
+
+[3/55] Justice Helix
+  → FAILED: Verified plain lyrics and a corresponding synced .lrc were not found; continuing with next track
+
+[4/55] Florida Georgia Line H.O.L.Y.
+  → VERIFIED SUCCESS: Florida Georgia Line - H.O.L.Y..mp3
+
+[5/55] Coldplay Everglow - Live from Spotify London
+  → FAILED: No confident catalog match with album artwork for: Coldplay Everglow - Live from Spotify London; continuing with next track
+
+[6/55] Sunidhi Chauhan;Shail Hada;Sanjay Leela Bhansali;A.M. Turaz Udi
+  → FAILED: Verified plain lyrics and a corresponding synced .lrc were not found; continuing with next track
+
+[7/55] DJ Khaled;Akon;B.o.B My Life
+  → FAILED: No confident catalog match with album artwork for: DJ Khaled;Akon;B.o.B My Life; continuing with next track
+
+[8/55] Amit Trivedi;Arijit Singh Wo Ladki
+  → FAILED: No confident catalog match with album artwork for: Amit Trivedi;Arijit Singh Wo Ladki; continuing with next track
+
+[9/55] Coldplay Another's Arms
+
+============================================================================
+Run started: 2026-10-05T08:50:21+06:00
+
+----------------------------------------------------------------------------
+TRACK 1/55: TUL8TE Qesm El Shakawy
+[08:50:21]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:50:22]   [OK   ] Match: TUL8TE — Qesm El Shakawy  ·  Qesm El Shakawy - Single
+[08:50:22]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[08:50:56]   [OK   ] Downloaded: Qesm El Shakawy  ·  TUL8TE
+[08:50:56]   [INFO ] Looking up plain and synchronized lyrics…
+[08:50:58]   [WARN ] Plain lyrics found; no verified synced LRC was found
+[08:50:58]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[08:50:59]   [OK   ] Title, artist and album tags read back successfully
+[08:50:59]   [OK   ] Album artwork embedded and verified
+[08:50:59]   [OK   ] Plain lyrics embedded and verified
+[08:50:59]   [WARN ] Synced lyrics and .lrc unavailable for this track
+[08:50:59]   [DONE ] Track complete: TUL8TE - Qesm El Shakawy.mp3
+
+----------------------------------------------------------------------------
+TRACK 2/55: Flume Helix
+[08:51:02]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:51:02]   [OK   ] Match: Flume — Helix  ·  Skin
+[08:51:02]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[08:51:12]   [WARN ] Interrupted by user; remaining tracks were not attempted
+
+RUN SUMMARY: attempted=2, completed=1, failed=0, tracks_without_synced_lyrics=1
+============================================================================
+
+============================================================================
+Run started: 2026-10-05T08:52:24+06:00
+
+----------------------------------------------------------------------------
+TRACK 1/1780: Punic Madina
+[08:52:24]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:52:25]   [OK   ] Match: Punic — Madina  ·  Madina - Single
+[08:52:25]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[08:53:10]   [OK   ] Downloaded: Punic - Madina [Brazilian Phonk]  ·  Tribal Trap
+[08:53:10]   [INFO ] Looking up plain and synchronized lyrics…
+[08:53:15]   [WARN ] No verified lyrics found; continuing with the available tags
+[08:53:15]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[08:53:17]   [OK   ] Title, artist and album tags read back successfully
+[08:53:17]   [OK   ] Album artwork embedded and verified
+[08:53:17]   [WARN ] Plain lyrics unavailable for this track
+[08:53:17]   [WARN ] Synced lyrics and .lrc unavailable for this track
+[08:53:17]   [DONE ] Track complete: Punic - Madina.mp3
+
+----------------------------------------------------------------------------
+TRACK 2/1780: Henri Schappert;Onset Music Group Ebumnandini
+[08:53:20]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:53:21]   [OK   ] Match: Henri Schappert & Onset music group — Ebumnandini  ·  Izinkomo - Single
+[08:53:21]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[08:53:34]   [OK   ] Downloaded: Ebumnandini  ·  Henri Schappert
+[08:53:34]   [INFO ] Looking up plain and synchronized lyrics…
+[08:53:38]   [WARN ] No verified lyrics found; continuing with the available tags
+[08:53:38]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[08:53:40]   [OK   ] Title, artist and album tags read back successfully
+[08:53:40]   [OK   ] Album artwork embedded and verified
+[08:53:40]   [WARN ] Plain lyrics unavailable for this track
+[08:53:40]   [WARN ] Synced lyrics and .lrc unavailable for this track
+[08:53:40]   [DONE ] Track complete: Henri Schappert & Onset music group - Ebumnandini.mp3
+
+----------------------------------------------------------------------------
+TRACK 3/1780: Henri Schappert;Onset Music Group Izinkomo
+[08:53:43]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:53:43]   [OK   ] Match: Henri Schappert & Onset music group — Izinkomo  ·  Izinkomo - Single
+[08:53:43]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[08:53:53]   [OK   ] Downloaded: Izinkomo  ·  Henri Schappert
+[08:53:53]   [INFO ] Looking up plain and synchronized lyrics…
+[08:53:57]   [WARN ] No verified lyrics found; continuing with the available tags
+[08:53:57]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[08:53:57]   [OK   ] Title, artist and album tags read back successfully
+[08:53:57]   [OK   ] Album artwork embedded and verified
+[08:53:57]   [WARN ] Plain lyrics unavailable for this track
+[08:53:57]   [WARN ] Synced lyrics and .lrc unavailable for this track
+[08:53:57]   [DONE ] Track complete: Henri Schappert & Onset music group - Izinkomo.mp3
+
+----------------------------------------------------------------------------
+TRACK 4/1780: QMIIR SEMPERO - Ultra Slowed
+[08:54:00]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:54:00]   [FAIL ] Track could not be completed: No confident title/artist/album catalog match for: QMIIR SEMPERO - Ultra Slowed
+
+----------------------------------------------------------------------------
+TRACK 5/1780: Ryutqc I'm the Shadows
+[08:54:03]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:54:04]   [FAIL ] Track could not be completed: No confident title/artist/album catalog match for: Ryutqc I'm the Shadows
+
+----------------------------------------------------------------------------
+TRACK 6/1780: Sonu Nigam;Shreya Ghoshal Dil Dooba (From "Khakee")
+[08:54:07]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:54:08]   [OK   ] Match: Sonu Nigam & Shreya Ghoshal — Dil Dooba (From "Khakee")  ·  Love Anthems - Sonu Nigam
+[08:54:08]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[08:54:20]   [WARN ] Interrupted by user; remaining tracks were not attempted
+
+RUN SUMMARY: attempted=6, completed=3, failed=2, tracks_without_synced_lyrics=3
+============================================================================
+
+============================================================================
+Run started: 2026-10-05T08:56:27+06:00
+
+----------------------------------------------------------------------------
+TRACK 1/1780: INNA Inndia
+[08:56:27]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:56:28]   [FAIL ] Track could not be completed: No confident title/artist/album catalog match for: INNA Inndia
+
+----------------------------------------------------------------------------
+TRACK 2/1780: INNA;Flo Rida Club Rocker - Play & Win Radio Version
+[08:56:31]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:56:31]   [FAIL ] Track could not be completed: No confident title/artist/album catalog match for: INNA;Flo Rida Club Rocker - Play & Win Radio Version
+
+----------------------------------------------------------------------------
+TRACK 3/1780: INNA Sun Is Up
+[08:56:34]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:56:35]   [OK   ] Match: Inna — Sun Is Up  ·  I Am the Club Rocker
+[08:56:35]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[08:56:58]   [OK   ] Downloaded: Sun is up  ·  INNA
+[08:56:58]   [INFO ] Looking up plain and synchronized lyrics…
+[08:56:59]   [OK   ] Plain and synchronized lyrics found
+[08:56:59]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[08:56:59]   [OK   ] Title, artist and album tags read back successfully
+[08:56:59]   [OK   ] Album artwork embedded and verified
+[08:56:59]   [OK   ] Plain lyrics embedded and verified
+[08:56:59]   [OK   ] Synced lyrics and .lrc embedded and verified
+[08:56:59]   [DONE ] Track complete: Inna - Sun Is Up.mp3
+
+----------------------------------------------------------------------------
+TRACK 4/1780: Akcent My Passion
+[08:57:02]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:57:02]   [OK   ] Match: Akcent — My Passion  ·  That's my name - EP
+[08:57:02]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[08:57:25]   [OK   ] Downloaded: Akcent - My Passion (full version)  ·  AKCENT
+[08:57:25]   [INFO ] Looking up plain and synchronized lyrics…
+[08:57:25]   [OK   ] Plain and synchronized lyrics found
+[08:57:25]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[08:57:25]   [OK   ] Title, artist and album tags read back successfully
+[08:57:25]   [OK   ] Album artwork embedded and verified
+[08:57:25]   [OK   ] Plain lyrics embedded and verified
+[08:57:25]   [OK   ] Synced lyrics and .lrc embedded and verified
+[08:57:25]   [DONE ] Track complete: Akcent - My Passion.mp3
+
+----------------------------------------------------------------------------
+TRACK 5/1780: Akcent Lovers Cry
+[08:57:28]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:57:29]   [OK   ] Match: Akcent — Lovers Cry  ·  Fără Lacrimi
+[08:57:29]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[08:57:51]   [OK   ] Downloaded: Lovers cry  ·  AKCENT
+[08:57:51]   [INFO ] Looking up plain and synchronized lyrics…
+[08:57:54]   [OK   ] Plain and synchronized lyrics found
+[08:57:54]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[08:57:55]   [OK   ] Title, artist and album tags read back successfully
+[08:57:55]   [OK   ] Album artwork embedded and verified
+[08:57:55]   [OK   ] Plain lyrics embedded and verified
+[08:57:55]   [OK   ] Synced lyrics and .lrc embedded and verified
+[08:57:55]   [DONE ] Track complete: Akcent - Lovers Cry.mp3
+
+----------------------------------------------------------------------------
+TRACK 6/1780: Cartoon;Jéja;Coleman Trapp Why We Lose
+[08:57:58]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:57:58]   [OK   ] Match: Cartoon, Jéja & Coleman Trapp — Why We Lose  ·  Why We Lose - Single
+[08:57:58]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[08:58:19]   [OK   ] Downloaded: Cartoon - Why We Lose (feat. Coleman Trapp) [Spotify version] | NCS Release  ·  NCS Original Mix / Extended Mix
+[08:58:19]   [INFO ] Looking up plain and synchronized lyrics…
+[08:58:19]   [OK   ] Plain and synchronized lyrics found
+[08:58:19]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[08:58:19]   [OK   ] Title, artist and album tags read back successfully
+[08:58:19]   [OK   ] Album artwork embedded and verified
+[08:58:19]   [OK   ] Plain lyrics embedded and verified
+[08:58:19]   [OK   ] Synced lyrics and .lrc embedded and verified
+[08:58:19]   [DONE ] Track complete: Cartoon, Jéja & Coleman Trapp - Why We Lose.mp3
+
+----------------------------------------------------------------------------
+TRACK 7/1780: The Weeknd Cry For Me
+[08:58:22]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:58:23]   [OK   ] Match: The Weeknd — Cry For Me  ·  Hurry Up Tomorrow
+[08:58:23]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[08:58:50]   [OK   ] Downloaded: The Weeknd - Cry For Me (Audio)  ·  The Weeknd
+[08:58:50]   [INFO ] Looking up plain and synchronized lyrics…
+[08:58:50]   [OK   ] Plain and synchronized lyrics found
+[08:58:50]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[08:58:50]   [OK   ] Title, artist and album tags read back successfully
+[08:58:50]   [OK   ] Album artwork embedded and verified
+[08:58:50]   [OK   ] Plain lyrics embedded and verified
+[08:58:50]   [OK   ] Synced lyrics and .lrc embedded and verified
+[08:58:50]   [DONE ] Track complete: The Weeknd - Cry For Me.mp3
+
+----------------------------------------------------------------------------
+TRACK 8/1780: Punic Madina
+[08:58:54]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[08:58:55]   [OK   ] Match: Punic — Madina  ·  Madina - Single
+[08:58:55]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[09:01:19]   [OK   ] Downloaded: Madina  ·  punic
+[09:01:19]   [INFO ] Looking up plain and synchronized lyrics…
+[09:01:44]   [WARN ] No verified lyrics found; continuing with the available tags
+[09:01:44]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[09:01:45]   [OK   ] Title, artist and album tags read back successfully
+[09:01:45]   [OK   ] Album artwork embedded and verified
+[09:01:45]   [WARN ] Plain lyrics unavailable for this track
+[09:01:45]   [WARN ] Synced lyrics and .lrc unavailable for this track
+[09:01:45]   [DONE ] Track complete: Punic - Madina.mp3
+
+----------------------------------------------------------------------------
+TRACK 9/1780: Henri Schappert;Onset Music Group Ebumnandini
+[09:01:48]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[09:01:59]   [OK   ] Match: Henri Schappert & Onset music group — Ebumnandini  ·  Izinkomo - Single
+[09:01:59]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[09:02:26]   [OK   ] Downloaded: Ebumnandini  ·  Henri Schappert
+[09:02:26]   [INFO ] Looking up plain and synchronized lyrics…
+[09:02:29]   [WARN ] No verified lyrics found; continuing with the available tags
+[09:02:29]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[09:02:30]   [OK   ] Title, artist and album tags read back successfully
+[09:02:30]   [OK   ] Album artwork embedded and verified
+[09:02:30]   [WARN ] Plain lyrics unavailable for this track
+[09:02:30]   [WARN ] Synced lyrics and .lrc unavailable for this track
+[09:02:30]   [DONE ] Track complete: Henri Schappert & Onset music group - Ebumnandini.mp3
+
+----------------------------------------------------------------------------
+TRACK 10/1780: Henri Schappert;Onset Music Group Izinkomo
+[09:02:33]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[09:02:33]   [OK   ] Match: Henri Schappert & Onset music group — Izinkomo  ·  Izinkomo - Single
+[09:02:33]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[09:02:43]   [OK   ] Downloaded: Izinkomo  ·  Henri Schappert
+[09:02:43]   [INFO ] Looking up plain and synchronized lyrics…
+[09:02:46]   [WARN ] No verified lyrics found; continuing with the available tags
+[09:02:46]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[09:02:46]   [OK   ] Title, artist and album tags read back successfully
+[09:02:46]   [OK   ] Album artwork embedded and verified
+[09:02:46]   [WARN ] Plain lyrics unavailable for this track
+[09:02:46]   [WARN ] Synced lyrics and .lrc unavailable for this track
+[09:02:46]   [DONE ] Track complete: Henri Schappert & Onset music group - Izinkomo.mp3
+
+----------------------------------------------------------------------------
+TRACK 11/1780: QMIIR SEMPERO - Ultra Slowed
+[09:02:49]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[09:02:49]   [FAIL ] Track could not be completed: No confident title/artist/album catalog match for: QMIIR SEMPERO - Ultra Slowed
+
+----------------------------------------------------------------------------
+TRACK 12/1780: Ryutqc I'm the Shadows
+[09:02:52]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[09:02:53]   [FAIL ] Track could not be completed: No confident title/artist/album catalog match for: Ryutqc I'm the Shadows
+
+----------------------------------------------------------------------------
+TRACK 13/1780: Sonu Nigam;Shreya Ghoshal Dil Dooba (From "Khakee")
+[09:02:56]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[09:02:56]   [OK   ] Match: Sonu Nigam & Shreya Ghoshal — Dil Dooba (From "Khakee")  ·  Love Anthems - Sonu Nigam
+[09:02:56]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[09:03:50]   [FAIL ] Track could not be completed: No suitable audio-only result passed title/artist/duration checks
+
+----------------------------------------------------------------------------
+TRACK 14/1780: Flume Jewel
+[09:03:53]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[09:03:54]   [OK   ] Match: Flume — Jewel  ·  Hi This Is Flume (Mixtape)
+[09:03:54]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[10:45:08]   [OK   ] Downloaded: Flume - Jewel  ·  Flume
+[10:45:08]   [INFO ] Looking up plain and synchronized lyrics…
+[10:45:12]   [WARN ] No verified lyrics found; continuing with the available tags
+[10:45:12]   [INFO ] Embedding catalog tags, available artwork and lyrics…
+[10:45:13]   [OK   ] Title, artist and album tags read back successfully
+[10:45:13]   [OK   ] Album artwork embedded and verified
+[10:45:13]   [WARN ] Plain lyrics unavailable for this track
+[10:45:13]   [WARN ] Synced lyrics and .lrc unavailable for this track
+[10:45:13]   [DONE ] Track complete: Flume - Jewel.mp3
+
+----------------------------------------------------------------------------
+TRACK 15/1780: Disco Lines;Tinashe No Broke Boys
+[10:45:16]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[10:45:17]   [FAIL ] Track could not be completed: No confident title/artist/album catalog match for: Disco Lines;Tinashe No Broke Boys
+
+----------------------------------------------------------------------------
+TRACK 16/1780: Vishal Dadlani Jee Le Zaraa (From "Talaash")
+[10:45:20]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[10:45:21]   [OK   ] Match: Vishal Dadlani — Jee Le Zaraa (From "Talaash")  ·  Javed Akhtar Ki Kalam Se
+[10:45:21]   [INFO ] Searching for a close-duration audio-only result; rejecting video/talk formats…
+[10:45:39]   [WARN ] Interrupted by user; remaining tracks were not attempted
+
+RUN SUMMARY: attempted=16, completed=9, failed=6, tracks_without_synced_lyrics=4
+============================================================================

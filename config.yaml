@@ -1,0 +1,17 @@
+download:
+  output_dir: "/home/tasin/MEGA"
+  quality: "bestaudio/best"
+  max_songs: null          # null = all songs
+  delay_between_songs: 3   # seconds (important for 2000+)
+  skip_existing: true      # resume support
+
+paths:
+  songs_file: "songs.txt"
+  cache: "./cache"
+  log_file: "download_log.txt"
+  database_file: "./database.json"
+
+# Explicitly confirmed instrumental recordings have no lyric text or timed .lrc.
+lyrics:
+  instrumental_tracks:
+    - "ODESZA - Always This Late"
