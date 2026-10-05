@@ -1,12 +1,10 @@
 # Mgpie CLI
 
-A short description of what this project does and who it's for.
+This CLI application fethces audio tracks and metadata, with Mega Sync, it provides a reliable audio-grabbing experience
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Coming soon
 
 ## Installation
 
