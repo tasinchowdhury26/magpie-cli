@@ -78,7 +78,7 @@ def get_itunes_metadata(query: str) -> Optional[Dict]:
         "disc_number": result.get("discNumber"), "duration_ms": result.get("trackTimeMillis"),
         "album_art_url": art, "source": "iTunes", "catalog_id": result.get("trackId"),
         "confidence": {
-            "title": 1.0 if got_title == wanted_title else 0.9,
+            "title": 1.0 if got_title == wanted_title or (not artist and title_match) else 0.9,
             "artist": 1.0 if wanted_artist and got_artist == wanted_artist else 0.95 if not artist else 0.9,
             "album": 1.0 if result.get("collectionName") else 0.0,
             "album_art": 0.95 if art else 0.0,

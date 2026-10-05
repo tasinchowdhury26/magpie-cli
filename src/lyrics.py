@@ -124,7 +124,7 @@ def _multi_provider_lrc(artist, title, album, duration_ms):
 
 
 def get_lyrics(artist: str, title: str, album: str = None, duration_ms: int = None):
-    """Return plain and synced lyrics. Missing synced lyrics must stop the track queue."""
+    """Return best available plain and synchronized lyrics, with provider provenance."""
     plain, synced, source = _lrclib_search(artist, title, album, duration_ms)
     if not synced:
         synced = _multi_provider_lrc(artist, title, album, duration_ms)

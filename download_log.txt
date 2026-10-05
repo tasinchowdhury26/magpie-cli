@@ -432,3 +432,169 @@ TRACK 16/1780: Vishal Dadlani Jee Le Zaraa (From "Talaash")
 
 RUN SUMMARY: attempted=16, completed=9, failed=6, tracks_without_synced_lyrics=4
 ============================================================================
+
+============================================================================
+Run started: 2026-10-05T05:08:16Z
+
+----------------------------------------------------------------------------
+TRACK 1/1780: INNA Inndia
+[11:08:16]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:08:16]   [FAIL ] Track could not be completed: No confident title/artist/album catalog match for: INNA Inndia
+
+----------------------------------------------------------------------------
+TRACK 2/1780: INNA;Flo Rida Club Rocker - Play & Win Radio Version
+[11:08:19]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:08:19]   [FAIL ] Track could not be completed: No confident title/artist/album catalog match for: INNA;Flo Rida Club Rocker - Play & Win Radio Version
+
+----------------------------------------------------------------------------
+TRACK 3/1780: INNA Sun Is Up
+[11:08:22]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:08:28]   [OK   ] Match: Inna — Sun Is Up  ·  I Am the Club Rocker
+[11:08:28]   [INFO ] Searching audio-only results; filtering video/talk formats and checking duration…
+[11:08:50]   [OK   ] Audio fetched: Sun is up · INNA
+[11:08:50]   [INFO ] Looking up plain and synchronized lyrics…
+[11:08:50]   [OK   ] Plain and synced lyrics found (LRCLIB)
+[11:08:50]   [INFO ] Embedding catalog metadata, artwork and available lyrics…
+[11:08:51]   [DONE ] Database updated · complete · Inna - Sun Is Up.mp3
+
+----------------------------------------------------------------------------
+TRACK 4/1780: Akcent My Passion
+[11:08:54]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:08:54]   [OK   ] Match: Akcent — My Passion  ·  That's my name - EP
+[11:08:54]   [INFO ] Searching audio-only results; filtering video/talk formats and checking duration…
+[11:09:17]   [OK   ] Audio fetched: Akcent - My Passion (full version) · AKCENT
+[11:09:17]   [INFO ] Looking up plain and synchronized lyrics…
+[11:09:18]   [OK   ] Plain and synced lyrics found (LRCLIB)
+[11:09:18]   [INFO ] Embedding catalog metadata, artwork and available lyrics…
+[11:09:18]   [DONE ] Database updated · complete · Akcent - My Passion.mp3
+
+----------------------------------------------------------------------------
+TRACK 5/1780: Akcent Lovers Cry
+[11:09:21]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:09:22]   [OK   ] Match: Akcent — Lovers Cry  ·  Fără Lacrimi
+[11:09:22]   [INFO ] Searching audio-only results; filtering video/talk formats and checking duration…
+[11:09:45]   [OK   ] Audio fetched: Lovers cry · AKCENT
+[11:09:45]   [INFO ] Looking up plain and synchronized lyrics…
+[11:09:49]   [OK   ] Plain and synced lyrics found (LRCLIB)
+[11:09:49]   [INFO ] Embedding catalog metadata, artwork and available lyrics…
+[11:09:49]   [DONE ] Database updated · complete · Akcent - Lovers Cry.mp3
+
+----------------------------------------------------------------------------
+TRACK 6/1780: Cartoon;Jéja;Coleman Trapp Why We Lose
+[11:09:52]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:09:52]   [OK   ] Match: Cartoon, Jéja & Coleman Trapp — Why We Lose  ·  Why We Lose - Single
+[11:09:52]   [INFO ] Searching audio-only results; filtering video/talk formats and checking duration…
+[11:10:12]   [OK   ] Audio fetched: Cartoon - Why We Lose (feat. Coleman Trapp) [Spotify version] | NCS Release · NCS Original Mix / Extended Mix
+[11:10:12]   [INFO ] Looking up plain and synchronized lyrics…
+[11:10:13]   [OK   ] Plain and synced lyrics found (LRCLIB)
+[11:10:13]   [INFO ] Embedding catalog metadata, artwork and available lyrics…
+[11:10:13]   [DONE ] Database updated · complete · Cartoon, Jéja & Coleman Trapp - Why We Lose.mp3
+
+----------------------------------------------------------------------------
+TRACK 7/1780: The Weeknd Cry For Me
+[11:10:16]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:10:22]   [OK   ] Match: The Weeknd — Cry For Me  ·  Hurry Up Tomorrow
+[11:10:22]   [INFO ] Searching audio-only results; filtering video/talk formats and checking duration…
+[11:10:45]   [OK   ] Audio fetched: The Weeknd - Cry For Me (Audio) · The Weeknd
+[11:10:45]   [INFO ] Looking up plain and synchronized lyrics…
+[11:10:46]   [OK   ] Plain and synced lyrics found (LRCLIB)
+[11:10:46]   [INFO ] Embedding catalog metadata, artwork and available lyrics…
+[11:10:46]   [DONE ] Database updated · complete · The Weeknd - Cry For Me.mp3
+
+----------------------------------------------------------------------------
+TRACK 8/1780: Punic Madina
+[11:10:49]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:10:50]   [OK   ] Match: Punic — Madina  ·  Madina - Single
+[11:10:50]   [INFO ] Searching audio-only results; filtering video/talk formats and checking duration…
+[11:11:21]   [OK   ] Audio fetched: Madina · punic
+[11:11:21]   [INFO ] Looking up plain and synchronized lyrics…
+[11:11:30]   [WARN ] Lyrics not found; continuing with the available tags
+[11:11:30]   [INFO ] Embedding catalog metadata, artwork and available lyrics…
+[11:11:31]   [DONE ] Database updated · complete_with_gaps · Punic - Madina.mp3
+
+----------------------------------------------------------------------------
+TRACK 9/1780: Henri Schappert;Onset Music Group Ebumnandini
+[11:11:34]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:11:34]   [OK   ] Match: Henri Schappert & Onset music group — Ebumnandini  ·  Izinkomo - Single
+[11:11:34]   [INFO ] Searching audio-only results; filtering video/talk formats and checking duration…
+[11:11:45]   [OK   ] Audio fetched: Ebumnandini · Henri Schappert
+[11:11:45]   [INFO ] Looking up plain and synchronized lyrics…
+[11:11:50]   [WARN ] Lyrics not found; continuing with the available tags
+[11:11:50]   [INFO ] Embedding catalog metadata, artwork and available lyrics…
+[11:11:51]   [DONE ] Database updated · complete_with_gaps · Henri Schappert & Onset music group - Ebumnandini.mp3
+
+----------------------------------------------------------------------------
+TRACK 10/1780: Henri Schappert;Onset Music Group Izinkomo
+[11:11:54]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:11:54]   [OK   ] Match: Henri Schappert & Onset music group — Izinkomo  ·  Izinkomo - Single
+[11:11:54]   [INFO ] Searching audio-only results; filtering video/talk formats and checking duration…
+[11:12:04]   [OK   ] Audio fetched: Izinkomo · Henri Schappert
+[11:12:04]   [INFO ] Looking up plain and synchronized lyrics…
+[11:12:08]   [WARN ] Lyrics not found; continuing with the available tags
+[11:12:08]   [INFO ] Embedding catalog metadata, artwork and available lyrics…
+[11:12:08]   [WARN ] Interrupted by user; remaining tracks were not attempted
+
+RUN SUMMARY: attempted=10, completed=7, skipped=0, failed=3, quality_gaps=4, interrupted=True
+============================================================================
+
+============================================================================
+Run started: 2026-10-05T05:13:30Z
+
+----------------------------------------------------------------------------
+TRACK 1/1780: INNA Inndia
+[11:13:30]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:13:30]   [FAIL ] Track could not be completed: No confident title/artist/album catalog match for: INNA Inndia
+
+----------------------------------------------------------------------------
+TRACK 2/1780: INNA;Flo Rida Club Rocker - Play & Win Radio Version
+[11:13:33]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:13:33]   [FAIL ] Track could not be completed: No confident title/artist/album catalog match for: INNA;Flo Rida Club Rocker - Play & Win Radio Version
+
+TRACK 3/1780: INNA Sun Is Up
+[11:13:36]   [SKIP ] Already complete; using database record 5c38d8ef686696dfcd3a
+
+TRACK 4/1780: Akcent My Passion
+[11:13:36]   [SKIP ] Already complete; using database record 28a6a4dbdb0300c2ff2c
+
+TRACK 5/1780: Akcent Lovers Cry
+[11:13:36]   [SKIP ] Already complete; using database record c61631e2eb2e077d9f4c
+
+TRACK 6/1780: Cartoon;Jéja;Coleman Trapp Why We Lose
+[11:13:36]   [SKIP ] Already complete; using database record 15f94980464022f2fd3b
+
+TRACK 7/1780: The Weeknd Cry For Me
+[11:13:36]   [SKIP ] Already complete; using database record b1924e78b9e748cdafe5
+
+----------------------------------------------------------------------------
+TRACK 8/1780: Punic Madina
+[11:13:36]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:13:36]   [OK   ] Match: Punic — Madina  ·  Madina - Single
+[11:13:36]   [OK   ] Reusing previously verified audio (confidence 100%)
+[11:13:36]   [INFO ] Looking up plain and synchronized lyrics…
+[11:13:40]   [WARN ] Lyrics not found; continuing with the available tags
+[11:13:40]   [INFO ] Embedding catalog metadata, artwork and available lyrics…
+[11:13:42]   [DONE ] Database updated · complete_with_gaps · Punic - Madina.mp3
+
+----------------------------------------------------------------------------
+TRACK 9/1780: Henri Schappert;Onset Music Group Ebumnandini
+[11:13:45]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:13:46]   [OK   ] Match: Henri Schappert & Onset music group — Ebumnandini  ·  Izinkomo - Single
+[11:13:46]   [OK   ] Reusing previously verified audio (confidence 85%)
+[11:13:46]   [INFO ] Looking up plain and synchronized lyrics…
+[11:13:49]   [WARN ] Lyrics not found; continuing with the available tags
+[11:13:49]   [INFO ] Embedding catalog metadata, artwork and available lyrics…
+[11:13:50]   [DONE ] Database updated · complete_with_gaps · Henri Schappert & Onset music group - Ebumnandini.mp3
+
+----------------------------------------------------------------------------
+TRACK 10/1780: Henri Schappert;Onset Music Group Izinkomo
+[11:13:53]   [INFO ] Searching web catalog for title, artist, album and artwork…
+[11:13:53]   [OK   ] Match: Henri Schappert & Onset music group — Izinkomo  ·  Izinkomo - Single
+[11:13:53]   [OK   ] Reusing previously verified audio (confidence 85%)
+[11:13:53]   [INFO ] Looking up plain and synchronized lyrics…
+[11:13:56]   [WARN ] Lyrics not found; continuing with the available tags
+[11:13:56]   [INFO ] Embedding catalog metadata, artwork and available lyrics…
+[11:13:56]   [DONE ] Database updated · complete_with_gaps · Henri Schappert & Onset music group - Izinkomo.mp3
+[11:13:59]   [WARN ] Interrupted by user; remaining tracks were not attempted
+
+RUN SUMMARY: attempted=10, completed=3, skipped=5, failed=2, quality_gaps=6, interrupted=True
+============================================================================

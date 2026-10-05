@@ -118,6 +118,7 @@ def main():
     output_dir = Path(config["download"]["output_dir"])
     max_songs = config["download"].get("max_songs")
     delay = config["download"].get("delay_between_songs", 3)
+    skip_completed = config["download"].get("skip_existing", True)
     log_file = config["paths"].get("log_file", "download_log.txt")
     db_path = config["paths"].get("database_file", "./database.json")
     database = TrackDatabase(db_path)  # Loaded once; every track lookup is a dict lookup.
@@ -139,6 +140,7 @@ def main():
     print("╰──────────────────────────────────────────────────────────────╯")
 
     attempted = completed = failed = skipped = asset_gaps = 0
+    interrupted = False
     with open(log_file, "a", encoding="utf-8") as log:
         log.write(f"\n{'=' * 76}\nRun started: {utc_now()}\n")
         log.flush()
@@ -148,7 +150,7 @@ def main():
             prior_record = copy.deepcopy(previous) if previous else None
 
             # Skip a fully complete item only when its recorded audio is still at the configured path.
-            if not args.refresh and prior_record and prior_record.get("status") == "complete":
+            if skip_completed and not args.refresh and prior_record and prior_record.get("status") == "complete":
                 saved_audio = prior_record.get("audio", {})
                 old_audio_path = Path(saved_audio["path"]) if saved_audio.get("path") else None
                 same_file_size = (old_audio_path and old_audio_path.is_file()
@@ -265,7 +267,8 @@ def main():
                 instrumental = normalize_track_id(meta["artists"], meta["title"]) in instrumental_tracks
                 if instrumental:
                     plain, synced = "Instrumental", None
-                lyrics_confidence = 0.96 if lyrics_source == "LRCLIB" and synced else 0.78 if synced else 0.7 if plain else 0
+                lyrics_confidence = (1.0 if instrumental else 0.96 if lyrics_source == "LRCLIB" and synced
+                                     else 0.78 if synced else 0.7 if plain else 0)
                 record["lyrics"] = {
                     "plain_available": bool(plain),
                     "synced_available": bool(synced),
@@ -312,6 +315,12 @@ def main():
                 record["audio"]["file_size_bytes"] = target.stat().st_size
 
                 issues = []
+                metadata_confidence = meta.get("confidence", {})
+                for key, value in (("title", metadata_confidence.get("title", 0)),
+                                   ("artist", metadata_confidence.get("artist", 0)),
+                                   ("album", metadata_confidence.get("album", 0))):
+                    if float(value or 0) < 0.9:
+                        issues.append(f"{key}_confidence_below_threshold")
                 if not embed_result["artwork"]:
                     issues.append("album_art_missing")
                 if not plain and not instrumental:
@@ -328,6 +337,7 @@ def main():
                 asset_gaps += len(issues)
                 log_step(log, f"Database updated · {record['status']} · {target.name}", "DONE")
             except KeyboardInterrupt:
+                interrupted = True
                 record["status"] = "incomplete"
                 record["last_error"] = "Interrupted by user"
                 record["issues"] = ["interrupted"]
@@ -350,11 +360,16 @@ def main():
                 if isinstance(record.get("last_error"), str) and record["last_error"] == "Interrupted by user":
                     break
             if i < total and delay > 0:
-                time.sleep(delay)
+                try:
+                    time.sleep(delay)
+                except KeyboardInterrupt:
+                    interrupted = True
+                    log_step(log, "Interrupted by user; remaining tracks were not attempted", "WARN")
+                    break
 
         log.write(
             f"\nRUN SUMMARY: attempted={attempted}, completed={completed}, skipped={skipped}, "
-            f"failed={failed}, asset_gaps={asset_gaps}\n{'=' * 76}\n"
+            f"failed={failed}, quality_gaps={asset_gaps}, interrupted={interrupted}\n{'=' * 76}\n"
         )
 
     print("\n╭──────────────────────── RUN SUMMARY ─────────────────────────╮")
@@ -363,7 +378,8 @@ def main():
     print(f"│ Already complete : {skipped:<42}│")
     print(f"│ Failed           : {failed:<42}│")
     print(f"│ Not attempted    : {total - attempted:<42}│")
-    print(f"│ Optional gaps    : {asset_gaps:<42}│")
+    print(f"│ Quality gaps     : {asset_gaps:<42}│")
+    print(f"│ Interrupted      : {str(interrupted):<42}│")
     print(f"│ Database         : {db_path:<42}│")
     print(f"│ Detailed log     : {log_file:<42}│")
     print("╰──────────────────────────────────────────────────────────────╯")

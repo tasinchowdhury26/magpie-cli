@@ -1,5 +1,1025 @@
 {
   "schema_version": 1,
-  "updated_at": null,
-  "tracks": {}
+  "updated_at": "2026-10-05T05:13:56Z",
+  "tracks": {
+    "c94006b27d9beddb5a91": {
+      "track_id": "c94006b27d9beddb5a91",
+      "input": "INNA Inndia",
+      "created_at": "2026-10-05T05:08:16Z",
+      "attempts": 2,
+      "metadata": {},
+      "audio": {},
+      "lyrics": {},
+      "artwork": {},
+      "issues": [
+        "processing_failed"
+      ],
+      "status": "incomplete",
+      "last_attempt": "2026-10-05T05:13:30Z",
+      "last_error": "No confident title/artist/album catalog match for: INNA Inndia",
+      "updated_at": "2026-10-05T05:13:30Z"
+    },
+    "10823bc37ac759787c9b": {
+      "track_id": "10823bc37ac759787c9b",
+      "input": "INNA;Flo Rida Club Rocker - Play & Win Radio Version",
+      "created_at": "2026-10-05T05:08:19Z",
+      "attempts": 2,
+      "metadata": {},
+      "audio": {},
+      "lyrics": {},
+      "artwork": {},
+      "issues": [
+        "processing_failed"
+      ],
+      "status": "incomplete",
+      "last_attempt": "2026-10-05T05:13:33Z",
+      "last_error": "No confident title/artist/album catalog match for: INNA;Flo Rida Club Rocker - Play & Win Radio Version",
+      "updated_at": "2026-10-05T05:13:33Z"
+    },
+    "5c38d8ef686696dfcd3a": {
+      "track_id": "5c38d8ef686696dfcd3a",
+      "input": "INNA Sun Is Up",
+      "created_at": "2026-10-05T05:08:22Z",
+      "attempts": 1,
+      "metadata": {
+        "title": {
+          "value": "Sun Is Up",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:28Z"
+        },
+        "artist": {
+          "value": "Inna",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:28Z"
+        },
+        "album": {
+          "value": "I Am the Club Rocker",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:28Z"
+        },
+        "year": {
+          "value": "2010",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:28Z"
+        },
+        "genre": {
+          "value": "Dance",
+          "confidence": 0.8,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:28Z"
+        },
+        "track_number": {
+          "value": 5,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:28Z"
+        },
+        "disc_number": {
+          "value": 1,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:28Z"
+        },
+        "duration_ms": {
+          "value": 224531,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:28Z"
+        },
+        "album_art": {
+          "value": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f6/1d/77/f61d77a5-191e-0b88-7f18-4feae990ae97/4670_Inna_I_Am_The_Club_Rocker_3000.jpg/1200x1200bb.jpg",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:28Z"
+        },
+        "metadata_source": {
+          "value": "iTunes",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:28Z"
+        },
+        "catalog_id": {
+          "value": 1457685266,
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:28Z"
+        }
+      },
+      "audio": {
+        "path": "/home/tasin/MEGA/Inna - Sun Is Up.mp3",
+        "source": "YouTube",
+        "source_id": "TdYNDCME8pc",
+        "source_title": "Sun is up",
+        "source_channel": "INNA",
+        "source_info": {
+          "id": "TdYNDCME8pc",
+          "title": "Sun is up",
+          "channel": "INNA",
+          "title_match_confidence": 1.0,
+          "artist_match_confidence": 1.0,
+          "duration_confidence": 0.9606
+        },
+        "duration_seconds": 224,
+        "duration_gap_seconds": 0.531,
+        "confidence": 0.996,
+        "match_evidence": {
+          "title": 1.0,
+          "artist": 1.0,
+          "duration": 0.9606
+        },
+        "checked_at": "2026-10-05T05:08:50Z",
+        "file_size_bytes": 9234628
+      },
+      "lyrics": {
+        "plain_available": true,
+        "synced_available": true,
+        "instrumental": false,
+        "source": "LRCLIB",
+        "confidence": 0.96,
+        "sidecar_path": "/home/tasin/MEGA/Inna - Sun Is Up.lrc",
+        "synced_content_sha256": "f0c0231439a48ae9110315c3f7b77835af725f07f3593412dfa1d62697628e88",
+        "checked_at": "2026-10-05T05:08:50Z"
+      },
+      "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f6/1d/77/f61d77a5-191e-0b88-7f18-4feae990ae97/4670_Inna_I_Am_The_Club_Rocker_3000.jpg/1200x1200bb.jpg",
+        "embedded": true,
+        "confidence": 0.95,
+        "source": "iTunes",
+        "checked_at": "2026-10-05T05:08:51Z"
+      },
+      "issues": [],
+      "status": "complete",
+      "last_attempt": "2026-10-05T05:08:22Z",
+      "last_error": null,
+      "completed_at": "2026-10-05T05:08:51Z",
+      "updated_at": "2026-10-05T05:08:51Z"
+    },
+    "28a6a4dbdb0300c2ff2c": {
+      "track_id": "28a6a4dbdb0300c2ff2c",
+      "input": "Akcent My Passion",
+      "created_at": "2026-10-05T05:08:54Z",
+      "attempts": 1,
+      "metadata": {
+        "title": {
+          "value": "My Passion",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:54Z"
+        },
+        "artist": {
+          "value": "Akcent",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:54Z"
+        },
+        "album": {
+          "value": "That's my name - EP",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:54Z"
+        },
+        "year": {
+          "value": "2011",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:54Z"
+        },
+        "genre": {
+          "value": "Urbano latino",
+          "confidence": 0.8,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:54Z"
+        },
+        "track_number": {
+          "value": 4,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:54Z"
+        },
+        "disc_number": {
+          "value": 1,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:54Z"
+        },
+        "duration_ms": {
+          "value": 244088,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:54Z"
+        },
+        "album_art": {
+          "value": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/24/9c/01/249c01c3-1026-8aa6-6de7-a4449905fcdb/859776516259_cover.jpg/1200x1200bb.jpg",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:54Z"
+        },
+        "metadata_source": {
+          "value": "iTunes",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:54Z"
+        },
+        "catalog_id": {
+          "value": 1542296423,
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:08:54Z"
+        }
+      },
+      "audio": {
+        "path": "/home/tasin/MEGA/Akcent - My Passion.mp3",
+        "source": "YouTube",
+        "source_id": "rwFf-sMh4EU",
+        "source_title": "Akcent - My Passion (full version)",
+        "source_channel": "AKCENT",
+        "source_info": {
+          "id": "rwFf-sMh4EU",
+          "title": "Akcent - My Passion (full version)",
+          "channel": "AKCENT",
+          "title_match_confidence": 1.0,
+          "artist_match_confidence": 1.0,
+          "duration_confidence": 0.994
+        },
+        "duration_seconds": 244,
+        "duration_gap_seconds": 0.088,
+        "confidence": 0.999,
+        "match_evidence": {
+          "title": 1.0,
+          "artist": 1.0,
+          "duration": 0.994
+        },
+        "checked_at": "2026-10-05T05:09:17Z",
+        "file_size_bytes": 9988110
+      },
+      "lyrics": {
+        "plain_available": true,
+        "synced_available": true,
+        "instrumental": false,
+        "source": "LRCLIB",
+        "confidence": 0.96,
+        "sidecar_path": "/home/tasin/MEGA/Akcent - My Passion.lrc",
+        "synced_content_sha256": "2fe46c917fed42e5eaec4cd9c809943086a164d03a752bfbe5fab7303d14bf4f",
+        "checked_at": "2026-10-05T05:09:18Z"
+      },
+      "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/24/9c/01/249c01c3-1026-8aa6-6de7-a4449905fcdb/859776516259_cover.jpg/1200x1200bb.jpg",
+        "embedded": true,
+        "confidence": 0.95,
+        "source": "iTunes",
+        "checked_at": "2026-10-05T05:09:18Z"
+      },
+      "issues": [],
+      "status": "complete",
+      "last_attempt": "2026-10-05T05:08:54Z",
+      "last_error": null,
+      "completed_at": "2026-10-05T05:09:18Z",
+      "updated_at": "2026-10-05T05:09:18Z"
+    },
+    "c61631e2eb2e077d9f4c": {
+      "track_id": "c61631e2eb2e077d9f4c",
+      "input": "Akcent Lovers Cry",
+      "created_at": "2026-10-05T05:09:21Z",
+      "attempts": 1,
+      "metadata": {
+        "title": {
+          "value": "Lovers Cry",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:22Z"
+        },
+        "artist": {
+          "value": "Akcent",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:22Z"
+        },
+        "album": {
+          "value": "Fără Lacrimi",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:22Z"
+        },
+        "year": {
+          "value": "2005",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:22Z"
+        },
+        "genre": {
+          "value": "Pop",
+          "confidence": 0.8,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:22Z"
+        },
+        "track_number": {
+          "value": 9,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:22Z"
+        },
+        "disc_number": {
+          "value": 1,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:22Z"
+        },
+        "duration_ms": {
+          "value": 250920,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:22Z"
+        },
+        "album_art": {
+          "value": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/80/c3/c9/80c3c947-cbfd-a40f-31ed-ae023b35c180/Akcent_-_Fara_Lacrimi_iTunes.jpg/1200x1200bb.jpg",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:22Z"
+        },
+        "metadata_source": {
+          "value": "iTunes",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:22Z"
+        },
+        "catalog_id": {
+          "value": 1154884912,
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:22Z"
+        }
+      },
+      "audio": {
+        "path": "/home/tasin/MEGA/Akcent - Lovers Cry.mp3",
+        "source": "YouTube",
+        "source_id": "RxTSlKisMHY",
+        "source_title": "Lovers cry",
+        "source_channel": "AKCENT",
+        "source_info": {
+          "id": "RxTSlKisMHY",
+          "title": "Lovers cry",
+          "channel": "AKCENT",
+          "title_match_confidence": 1.0,
+          "artist_match_confidence": 1.0,
+          "duration_confidence": 0.9947
+        },
+        "duration_seconds": 251,
+        "duration_gap_seconds": 0.08,
+        "confidence": 1.0,
+        "match_evidence": {
+          "title": 1.0,
+          "artist": 1.0,
+          "duration": 0.9947
+        },
+        "checked_at": "2026-10-05T05:09:45Z",
+        "file_size_bytes": 10311400
+      },
+      "lyrics": {
+        "plain_available": true,
+        "synced_available": true,
+        "instrumental": false,
+        "source": "LRCLIB",
+        "confidence": 0.96,
+        "sidecar_path": "/home/tasin/MEGA/Akcent - Lovers Cry.lrc",
+        "synced_content_sha256": "c48bce90e49667db1f52a61e9fc70ca1fa4ac577cc28c5c8e608bda0927a7e47",
+        "checked_at": "2026-10-05T05:09:49Z"
+      },
+      "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/80/c3/c9/80c3c947-cbfd-a40f-31ed-ae023b35c180/Akcent_-_Fara_Lacrimi_iTunes.jpg/1200x1200bb.jpg",
+        "embedded": true,
+        "confidence": 0.95,
+        "source": "iTunes",
+        "checked_at": "2026-10-05T05:09:49Z"
+      },
+      "issues": [],
+      "status": "complete",
+      "last_attempt": "2026-10-05T05:09:21Z",
+      "last_error": null,
+      "completed_at": "2026-10-05T05:09:49Z",
+      "updated_at": "2026-10-05T05:09:49Z"
+    },
+    "15f94980464022f2fd3b": {
+      "track_id": "15f94980464022f2fd3b",
+      "input": "Cartoon;Jéja;Coleman Trapp Why We Lose",
+      "created_at": "2026-10-05T05:09:52Z",
+      "attempts": 1,
+      "metadata": {
+        "title": {
+          "value": "Why We Lose",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:52Z"
+        },
+        "artist": {
+          "value": "Cartoon, Jéja & Coleman Trapp",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:52Z"
+        },
+        "album": {
+          "value": "Why We Lose - Single",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:52Z"
+        },
+        "year": {
+          "value": "2015",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:52Z"
+        },
+        "genre": {
+          "value": "Dance",
+          "confidence": 0.8,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:52Z"
+        },
+        "track_number": {
+          "value": 1,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:52Z"
+        },
+        "disc_number": {
+          "value": 1,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:52Z"
+        },
+        "duration_ms": {
+          "value": 197486,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:52Z"
+        },
+        "album_art": {
+          "value": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/9c/96/c99c9639-9ef6-43dc-d138-73e684fd852f/8721465219005.png/1200x1200bb.jpg",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:52Z"
+        },
+        "metadata_source": {
+          "value": "iTunes",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:52Z"
+        },
+        "catalog_id": {
+          "value": 1870366209,
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:09:52Z"
+        }
+      },
+      "audio": {
+        "path": "/home/tasin/MEGA/Cartoon, Jéja & Coleman Trapp - Why We Lose.mp3",
+        "source": "YouTube",
+        "source_id": "H0a111MkLds",
+        "source_title": "Cartoon - Why We Lose (feat. Coleman Trapp) [Spotify version] | NCS Release",
+        "source_channel": "NCS Original Mix / Extended Mix",
+        "source_info": {
+          "id": "H0a111MkLds",
+          "title": "Cartoon - Why We Lose (feat. Coleman Trapp) [Spotify version] | NCS Release",
+          "channel": "NCS Original Mix / Extended Mix",
+          "title_match_confidence": 1.0,
+          "artist_match_confidence": 0.75,
+          "duration_confidence": 0.7034
+        },
+        "duration_seconds": 201,
+        "duration_gap_seconds": 3.514,
+        "confidence": 0.908,
+        "match_evidence": {
+          "title": 1.0,
+          "artist": 0.75,
+          "duration": 0.7034
+        },
+        "checked_at": "2026-10-05T05:10:12Z",
+        "file_size_bytes": 8402549
+      },
+      "lyrics": {
+        "plain_available": true,
+        "synced_available": true,
+        "instrumental": false,
+        "source": "LRCLIB",
+        "confidence": 0.96,
+        "sidecar_path": "/home/tasin/MEGA/Cartoon, Jéja & Coleman Trapp - Why We Lose.lrc",
+        "synced_content_sha256": "fc089072bae7d8a4b4aded64fa1879a145f684238120e0020e4ecb409d2a7e11",
+        "checked_at": "2026-10-05T05:10:13Z"
+      },
+      "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/9c/96/c99c9639-9ef6-43dc-d138-73e684fd852f/8721465219005.png/1200x1200bb.jpg",
+        "embedded": true,
+        "confidence": 0.95,
+        "source": "iTunes",
+        "checked_at": "2026-10-05T05:10:13Z"
+      },
+      "issues": [],
+      "status": "complete",
+      "last_attempt": "2026-10-05T05:09:52Z",
+      "last_error": null,
+      "completed_at": "2026-10-05T05:10:13Z",
+      "updated_at": "2026-10-05T05:10:13Z"
+    },
+    "b1924e78b9e748cdafe5": {
+      "track_id": "b1924e78b9e748cdafe5",
+      "input": "The Weeknd Cry For Me",
+      "created_at": "2026-10-05T05:10:16Z",
+      "attempts": 1,
+      "metadata": {
+        "title": {
+          "value": "Cry For Me",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:10:22Z"
+        },
+        "artist": {
+          "value": "The Weeknd",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:10:22Z"
+        },
+        "album": {
+          "value": "Hurry Up Tomorrow",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:10:22Z"
+        },
+        "year": {
+          "value": "2025",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:10:22Z"
+        },
+        "genre": {
+          "value": "R&B/Soul",
+          "confidence": 0.8,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:10:22Z"
+        },
+        "track_number": {
+          "value": 2,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:10:22Z"
+        },
+        "disc_number": {
+          "value": 1,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:10:22Z"
+        },
+        "duration_ms": {
+          "value": 224137,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:10:22Z"
+        },
+        "album_art": {
+          "value": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/fd/a3/13fda38d-fc63-ddc3-1cf2-c09251adc532/25UMGIM09489.rgb.jpg/1200x1200bb.jpg",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:10:22Z"
+        },
+        "metadata_source": {
+          "value": "iTunes",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:10:22Z"
+        },
+        "catalog_id": {
+          "value": 1793702597,
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:10:22Z"
+        }
+      },
+      "audio": {
+        "path": "/home/tasin/MEGA/The Weeknd - Cry For Me.mp3",
+        "source": "YouTube",
+        "source_id": "ljxYE-aJD3A",
+        "source_title": "The Weeknd - Cry For Me (Audio)",
+        "source_channel": "The Weeknd",
+        "source_info": {
+          "id": "ljxYE-aJD3A",
+          "title": "The Weeknd - Cry For Me (Audio)",
+          "channel": "The Weeknd",
+          "title_match_confidence": 1.0,
+          "artist_match_confidence": 1.0,
+          "duration_confidence": 0.9898
+        },
+        "duration_seconds": 224,
+        "duration_gap_seconds": 0.137,
+        "confidence": 0.999,
+        "match_evidence": {
+          "title": 1.0,
+          "artist": 1.0,
+          "duration": 0.9898
+        },
+        "checked_at": "2026-10-05T05:10:45Z",
+        "file_size_bytes": 9351492
+      },
+      "lyrics": {
+        "plain_available": true,
+        "synced_available": true,
+        "instrumental": false,
+        "source": "LRCLIB",
+        "confidence": 0.96,
+        "sidecar_path": "/home/tasin/MEGA/The Weeknd - Cry For Me.lrc",
+        "synced_content_sha256": "c4fbe674d90d9f663de406f84bcb91a608030cb6eda5244743fa00c129efa449",
+        "checked_at": "2026-10-05T05:10:46Z"
+      },
+      "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/fd/a3/13fda38d-fc63-ddc3-1cf2-c09251adc532/25UMGIM09489.rgb.jpg/1200x1200bb.jpg",
+        "embedded": true,
+        "confidence": 0.95,
+        "source": "iTunes",
+        "checked_at": "2026-10-05T05:10:46Z"
+      },
+      "issues": [],
+      "status": "complete",
+      "last_attempt": "2026-10-05T05:10:16Z",
+      "last_error": null,
+      "completed_at": "2026-10-05T05:10:46Z",
+      "updated_at": "2026-10-05T05:10:46Z"
+    },
+    "2ef4140448f98b9b4a72": {
+      "track_id": "2ef4140448f98b9b4a72",
+      "input": "Punic Madina",
+      "created_at": "2026-10-05T05:10:49Z",
+      "attempts": 2,
+      "metadata": {
+        "title": {
+          "value": "Madina",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:36Z"
+        },
+        "artist": {
+          "value": "Punic",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:36Z"
+        },
+        "album": {
+          "value": "Madina - Single",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:36Z"
+        },
+        "year": {
+          "value": "2025",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:36Z"
+        },
+        "genre": {
+          "value": "Dance",
+          "confidence": 0.8,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:36Z"
+        },
+        "track_number": {
+          "value": 1,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:36Z"
+        },
+        "disc_number": {
+          "value": 1,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:36Z"
+        },
+        "duration_ms": {
+          "value": 117000,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:36Z"
+        },
+        "album_art": {
+          "value": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/40/16/db4016c1-0e4d-4125-6a35-a91b7c7bd623/cover.jpg/1200x1200bb.jpg",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:36Z"
+        },
+        "metadata_source": {
+          "value": "iTunes",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:36Z"
+        },
+        "catalog_id": {
+          "value": 1784711064,
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:36Z"
+        }
+      },
+      "audio": {
+        "path": "/home/tasin/MEGA/Punic - Madina.mp3",
+        "source": "YouTube",
+        "source_id": "ufvpFwlIQhI",
+        "source_title": "Madina",
+        "source_channel": "punic",
+        "source_info": {
+          "id": "ufvpFwlIQhI",
+          "title": "Madina",
+          "channel": "punic",
+          "title_match_confidence": 1.0,
+          "artist_match_confidence": 1.0,
+          "duration_confidence": 1.0
+        },
+        "duration_seconds": 117,
+        "duration_gap_seconds": 0.0,
+        "confidence": 1.0,
+        "match_evidence": {
+          "title": 1.0,
+          "artist": 1.0,
+          "duration": 1.0
+        },
+        "checked_at": "2026-10-05T05:13:36Z",
+        "file_size_bytes": 5164147
+      },
+      "lyrics": {
+        "plain_available": false,
+        "synced_available": false,
+        "instrumental": false,
+        "source": null,
+        "confidence": 0,
+        "sidecar_path": null,
+        "synced_content_sha256": null,
+        "checked_at": "2026-10-05T05:13:40Z"
+      },
+      "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/40/16/db4016c1-0e4d-4125-6a35-a91b7c7bd623/cover.jpg/1200x1200bb.jpg",
+        "embedded": true,
+        "confidence": 0.95,
+        "source": "iTunes",
+        "checked_at": "2026-10-05T05:13:42Z"
+      },
+      "issues": [
+        "lyrics_missing",
+        "synced_lyrics_missing"
+      ],
+      "status": "complete_with_gaps",
+      "last_attempt": "2026-10-05T05:13:36Z",
+      "last_error": null,
+      "completed_at": "2026-10-05T05:13:42Z",
+      "updated_at": "2026-10-05T05:13:42Z"
+    },
+    "db0b0ed019b938d248a4": {
+      "track_id": "db0b0ed019b938d248a4",
+      "input": "Henri Schappert;Onset Music Group Ebumnandini",
+      "created_at": "2026-10-05T05:11:34Z",
+      "attempts": 2,
+      "metadata": {
+        "title": {
+          "value": "Ebumnandini",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:46Z"
+        },
+        "artist": {
+          "value": "Henri Schappert & Onset music group",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:46Z"
+        },
+        "album": {
+          "value": "Izinkomo - Single",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:46Z"
+        },
+        "year": {
+          "value": "2025",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:46Z"
+        },
+        "genre": {
+          "value": "Afro-Pop",
+          "confidence": 0.8,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:46Z"
+        },
+        "track_number": {
+          "value": 2,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:46Z"
+        },
+        "disc_number": {
+          "value": 1,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:46Z"
+        },
+        "duration_ms": {
+          "value": 226239,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:46Z"
+        },
+        "album_art": {
+          "value": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/79/28/4a7928fd-7e77-d73c-af90-3e2ab0bec7cf/artwork.jpg/1200x1200bb.jpg",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:46Z"
+        },
+        "metadata_source": {
+          "value": "iTunes",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:46Z"
+        },
+        "catalog_id": {
+          "value": 1837562501,
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:46Z"
+        }
+      },
+      "audio": {
+        "path": "/home/tasin/MEGA/Henri Schappert & Onset music group - Ebumnandini.mp3",
+        "source": "YouTube",
+        "source_id": "G7gLuEUKCzI",
+        "source_title": "Ebumnandini",
+        "source_channel": "Henri Schappert",
+        "source_info": {
+          "id": "G7gLuEUKCzI",
+          "title": "Ebumnandini",
+          "channel": "Henri Schappert",
+          "title_match_confidence": 1.0,
+          "artist_match_confidence": 0.4,
+          "duration_confidence": 0.9824
+        },
+        "duration_seconds": 226,
+        "duration_gap_seconds": 0.239,
+        "confidence": 0.848,
+        "match_evidence": {
+          "title": 1.0,
+          "artist": 0.4,
+          "duration": 0.9824
+        },
+        "checked_at": "2026-10-05T05:13:46Z",
+        "file_size_bytes": 9300381
+      },
+      "lyrics": {
+        "plain_available": false,
+        "synced_available": false,
+        "instrumental": false,
+        "source": null,
+        "confidence": 0,
+        "sidecar_path": null,
+        "synced_content_sha256": null,
+        "checked_at": "2026-10-05T05:13:49Z"
+      },
+      "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/79/28/4a7928fd-7e77-d73c-af90-3e2ab0bec7cf/artwork.jpg/1200x1200bb.jpg",
+        "embedded": true,
+        "confidence": 0.95,
+        "source": "iTunes",
+        "checked_at": "2026-10-05T05:13:50Z"
+      },
+      "issues": [
+        "lyrics_missing",
+        "synced_lyrics_missing"
+      ],
+      "status": "complete_with_gaps",
+      "last_attempt": "2026-10-05T05:13:45Z",
+      "last_error": null,
+      "completed_at": "2026-10-05T05:13:50Z",
+      "updated_at": "2026-10-05T05:13:50Z"
+    },
+    "f038b25bb528073531ce": {
+      "track_id": "f038b25bb528073531ce",
+      "input": "Henri Schappert;Onset Music Group Izinkomo",
+      "created_at": "2026-10-05T05:11:54Z",
+      "attempts": 2,
+      "metadata": {
+        "title": {
+          "value": "Izinkomo",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:53Z"
+        },
+        "artist": {
+          "value": "Henri Schappert & Onset music group",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:53Z"
+        },
+        "album": {
+          "value": "Izinkomo - Single",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:53Z"
+        },
+        "year": {
+          "value": "2025",
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:53Z"
+        },
+        "genre": {
+          "value": "Afro-Pop",
+          "confidence": 0.8,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:53Z"
+        },
+        "track_number": {
+          "value": 1,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:53Z"
+        },
+        "disc_number": {
+          "value": 1,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:53Z"
+        },
+        "duration_ms": {
+          "value": 168075,
+          "confidence": 0.9,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:53Z"
+        },
+        "album_art": {
+          "value": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/79/28/4a7928fd-7e77-d73c-af90-3e2ab0bec7cf/artwork.jpg/1200x1200bb.jpg",
+          "confidence": 0.95,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:53Z"
+        },
+        "metadata_source": {
+          "value": "iTunes",
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:53Z"
+        },
+        "catalog_id": {
+          "value": 1837562497,
+          "confidence": 1.0,
+          "source": "iTunes",
+          "checked_at": "2026-10-05T05:13:53Z"
+        }
+      },
+      "audio": {
+        "path": "/home/tasin/MEGA/Henri Schappert & Onset music group - Izinkomo.mp3",
+        "source": "YouTube",
+        "source_id": "RWv3FTJZuuM",
+        "source_title": "Izinkomo",
+        "source_channel": "Henri Schappert",
+        "source_info": {
+          "id": "RWv3FTJZuuM",
+          "title": "Izinkomo",
+          "channel": "Henri Schappert",
+          "title_match_confidence": 1.0,
+          "artist_match_confidence": 0.4,
+          "duration_confidence": 0.9926
+        },
+        "duration_seconds": 168,
+        "duration_gap_seconds": 0.075,
+        "confidence": 0.849,
+        "match_evidence": {
+          "title": 1.0,
+          "artist": 0.4,
+          "duration": 0.9926
+        },
+        "checked_at": "2026-10-05T05:13:53Z",
+        "file_size_bytes": 6971972
+      },
+      "lyrics": {
+        "plain_available": false,
+        "synced_available": false,
+        "instrumental": false,
+        "source": null,
+        "confidence": 0,
+        "sidecar_path": null,
+        "synced_content_sha256": null,
+        "checked_at": "2026-10-05T05:13:56Z"
+      },
+      "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/79/28/4a7928fd-7e77-d73c-af90-3e2ab0bec7cf/artwork.jpg/1200x1200bb.jpg",
+        "embedded": true,
+        "confidence": 0.95,
+        "source": "iTunes",
+        "checked_at": "2026-10-05T05:13:56Z"
+      },
+      "issues": [
+        "lyrics_missing",
+        "synced_lyrics_missing"
+      ],
+      "status": "complete_with_gaps",
+      "last_attempt": "2026-10-05T05:13:53Z",
+      "last_error": null,
+      "updated_at": "2026-10-05T05:13:56Z",
+      "completed_at": "2026-10-05T05:13:56Z"
+    }
+  }
 }
